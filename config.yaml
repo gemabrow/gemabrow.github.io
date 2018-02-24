@@ -1,0 +1,9 @@
+---
+baseURL: "http://geraldcodes.com"
+enableEmoji: true
+enableGitInfo: true
+googleAnalytics: ""
+languageCode: "en-us"
+pygmentsStyle: "friendly"
+title: "UNDER CONSTRUCTION"
+theme: "tranquilpeak"
